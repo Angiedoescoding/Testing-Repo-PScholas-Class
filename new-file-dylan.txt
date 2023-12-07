@@ -1,3 +1,5 @@
 Hooooray! The file opened via Terminal!
 
 Updated the file again after creating a new branch.
+
+This is the text for the second branch.
