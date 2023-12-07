@@ -1,0 +1,1 @@
+Hooooray! The file opened via Terminal!
